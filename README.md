@@ -35,7 +35,7 @@ This project is a continuation of the previous one. The previous project was mad
 - Java 11
 - Spring: SpringBoot, MVC, Data JPA, Security, DevTools, Actuator
 - Maven
-- H2, Mysql, ClearDb(Heroku)
+- MongoDB
 - Thymeleaf
 - Javascript, jQuery
 - Html, CSS, Bootstrap
