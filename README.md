@@ -44,20 +44,7 @@ This project is a continuation of the previous one. The previous project was mad
 ### Environment
 - Heroku as CD tool
 - Circle CI as CI tool
-- Docker for containerization
-
-## Application demo is available on Heroku  
-Link: [https://springboot-social-network.herokuapp.com/](https://springboot-social-network.herokuapp.com/)  
-Cersei is average user and Tyrion Lannister is super admin. Tyrion can't be blocked or made average admin user.
-
-Credentials for Cersei Lannister:
- - login cersei@lannister.ru
- - password fun123  
- 
-Tyrion Lannister credentials:
- - login tyrion@lannister.ru
- - password fun123
- 
+- Docker for containerization 
  ## Quick start
  
  ### Required:
@@ -82,20 +69,3 @@ Tyrion Lannister credentials:
 This application is tested in Docker.  
 I made 2 containers: mysql and social-network, and then linked them.  
 Commands for images creation and containers startup may be found in the directory: [docker](https://github.com/dmcheremisin/SpringBootSocialNetwork/tree/master/docker)
-
-## Screenshots
-![1](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/1.png)
-![2](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/2.png)
-![3](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/3.png)
-![4](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/4.png)
-![5](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/5.png)
-![6](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/6.png)
-![7](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/7.png)
-![8](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/8.png)
-![9](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/9.png)
-![10](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/10.png)
-![11](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/11.png)
-![12](https://raw.githubusercontent.com/dmcheremisin/SpringBootSocialNetwork/master/screenshots/12.png)
- 
-### Todo: 
-- Improve test coverage. Yes, I know it is very important, but I don't have enough time.
