@@ -38,7 +38,6 @@ This project is a continuation of the previous one. The previous project was mad
 - Heroku as CD tool
 - Circle CI as CI tool
 - Docker for containerization
--  
  ### Required:
  - Java 11
  - Maven 
